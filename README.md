@@ -46,3 +46,5 @@ GitHub list — write us a line to <exonum@bitfury.com>.
 ## Other languages support
 
 * [Java](https://github.com/exonum/exonum-java-binding)
+
+## USP support
